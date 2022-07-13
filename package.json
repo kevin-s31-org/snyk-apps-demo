@@ -45,7 +45,7 @@
     "@types/lowdb": "^1.0.11",
     "@types/luxon": "^2.0.4",
     "@types/ncp": "^2.0.5",
-    "@types/node": "^16.9.1",
+    "@types/node": "^16.11.41",
     "@types/passport": "^1.0.7",
     "@types/passport-oauth2": "^1.4.11",
     "@types/qs": "^6.9.7",
