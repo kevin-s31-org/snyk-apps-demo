@@ -31,9 +31,9 @@
   },
   "homepage": "https://github.com/snyk/snyk-apps-demo#readme",
   "devDependencies": {
-    "@babel/core": "^7.15.5",
-    "@babel/preset-env": "^7.15.6",
-    "@babel/preset-typescript": "^7.15.0",
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-typescript": "^7.17.12",
     "@types/config": "0.0.39",
     "@types/cryptr": "^4.0.1",
     "@types/ejs": "^3.1.0",
